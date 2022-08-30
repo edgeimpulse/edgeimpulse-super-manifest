@@ -1,7 +1,7 @@
 <super-manifest version="2.0">
   <app-manifest-list>
     <app-manifest>
-      <uri>https://github.com/edgeimpulse/mtb-edgeimpulse-ce-manifest/blob/main/mtb-edgeimpulse-ce-manifest-fv2.xml</uri>
+      <uri>https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml</uri>
     </app-manifest>
   </app-manifest-list>
 </super-manifest>
